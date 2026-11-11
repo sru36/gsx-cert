@@ -1,0 +1,9 @@
+{
+  "templatePath": "assets/certificate_template.pdf",
+  "name": {
+    "y": 267,
+    "font": "Helvetica-Bold",
+    "size": 28,
+    "color": "6841DA"
+  }
+}
